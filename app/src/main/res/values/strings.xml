@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">androidActivityState</string>
     <string name="enter_your_name">Enter Your Name</string>
-    <string name="type_your_name">Type it here...</string>
     <string name="show_your_name">Show Your Name</string>
-    <string name="your_typed_name">Your typed name Is...</string>
+    <string name="your_typed_name">Here your name will be displayed..</string>
+    <string name="type_name_edit_text_hint">Type your name</string>
 </resources>
